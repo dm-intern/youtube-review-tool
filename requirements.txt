@@ -1,0 +1,8 @@
+streamlit
+pandas
+yt-dlp
+opencv-python-headless
+pytesseract
+Pillow
+python-Levenshtein
+git+https://github.com/openai/whisper.git
